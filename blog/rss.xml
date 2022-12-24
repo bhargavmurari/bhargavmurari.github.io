@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Bhargav Murari Blog</title>
+        <link>https://bhargavmurari.github.io/blog</link>
+        <description>Bhargav Murari Blog</description>
+        <lastBuildDate>Sat, 24 Dec 2022 00:51:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AboutMe]]></title>
+            <link>https://bhargavmurari.github.io/blog/AboutMe</link>
+            <guid>AboutMe</guid>
+            <pubDate>Sat, 24 Dec 2022 00:51:59 GMT</pubDate>
+            <description><![CDATA[Hi, I'm Bhargav Murari]]></description>
+        </item>
+    </channel>
+</rss>
